@@ -1,14 +1,13 @@
-<h2 align="center">Hi 👋, I'm Ritik Dwivedi </h2>
-<h3 align="center">A passionate developer and Linux ethusiast</h3>
+<h2 align="center">Hi there 👋, I'm Shashi Shekhar Azad </h2>
 
-- 📫 How to reach me **dwi.ritik20@gmail.com**
+- 📫 How to reach me **shashishekhar.coder@gmail.com**
 
-- 🔭 I’m currently looking for work and internships
+- 🔭🌱 I’m currently pursuing master in computer scienc at Dr BR Ambedkar National Institute of Technology Jalandhar
 
 - 👨‍💻 All of my projects are available in my github profile
  
-- 🌱 I’m currently learning Django
 ### SKILLS 
+![Java](https://img.shields.io/badge/java-23ED8B00.svg?style=for-the-badge&logo=jdk&logoColor=white)
 ![langs](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![l](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![lamgs](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -26,7 +25,7 @@
 
 ### CONNECT WITH ME
 <p align="left">
-<a href="https://twitter.com/ahm_ritik" target="blank"><img align="center" src="https://img.icons8.com/fluent/50/000000/twitter.png" alt="ahm_ritik" width="30" width="30" /></a>
-<a href="https://linkedin.com/in/ritik-dwivedi-7899581b2" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="ritik-dwivedi-7899581b2"  width="30" /></a>
-<a href="https://instagram.com/ritik_dwivedi12" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="ritik_dwivedi12" width="30" /></a>
+<a href="https://linkedin.com/in/shashishekharazad" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt=shashishekharazad"  width="30" /></a>
+<a href="https://twitter.com/shashi_s_a" target="blank"><img align="center" src="https://img.icons8.com/fluent/50/000000/twitter.png" alt="shashi_s_a" width="30" width="30" /></a>
+<a href="https://instagram.com/shashii_s_a" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="shashii_s_a" width="30" /></a>
 </p>
