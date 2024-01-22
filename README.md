@@ -1,11 +1,10 @@
 <h1 align="center">Hey, It's Shashi</h1>
-<h3 align="center"> Hello, I'm Shashi Shekhar Azad, currently pursuing a Master's in Technology at NIT Jalandhar, specializing in Computer Science and Engineering. I earned my Bachelor's degree from AKTU Lucknow. With a strong foundation in academia, I've seamlessly integrated theory with practice during my tenure as a Technical Consultant at Acxiom Consulting. For six months, I immersed myself in refining my skills, particularly in the realm of software development.
-Passionate about technology, I am dedicated to continuous learning, ensuring I stay at the forefront of this dynamic field. My GitHub profile is a testament to my hands-on experience and ongoing projects, reflecting my commitment to contributing meaningfully to the ever-evolving landscape of technology. Explore my repositories to witness the intersection of academic prowess and real-world application, showcasing my journey from undergraduate studies to my current pursuit of mastery at NIT Jalandhar.</h3>
+<h3 align="center">Greetings! I hold a Master's in Technology from NIT Jalandhar, specializing in Computer Science and Engineering. I earned my Bachelor's degree from AKTU Lucknow. With a strong foundation in academia, I've seamlessly integrated theory with practice during my tenure as a Technical Consultant at Acxiom Consulting, where I dedicated six months to refining my skills in software development.
+Passionate about technology, I am committed to continuous learning to stay at the forefront of this dynamic field. My GitHub profile mirrors this journey, showcasing hands-on experience, ongoing projects, and a commitment to contributing meaningfully to the ever-evolving landscape of technology. Explore my repositories to see the intersection of academic knowledge and real-world application, from undergraduate studies to my mastery at NIT Jalandhar.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashishekharazad&label=Profile%20views&color=0e75b6&style=flat" alt="shashishekharazad" /> </p>
-
 <!--
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurav2658" alt="saurav2658" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashishekharazad" alt="shashishekharazad" /></a> </p>
 -->
 
 <h3 align="left">Connect with me:</h3>
